@@ -61,12 +61,6 @@ Herramienta con interfaz gráfica que implementa métodos como congruencial y pr
  
 ---
  
-## 💡 Intereses
- 
-Diseño de sistemas, videojuegos, cine, lectura, filosofía y actividad física.
- 
----
- 
 ## 📄 CV detallado
  
 Podés ver mi CV completo [aquí](https://www.linkedin.com/in/gabymartinezalarcon/).
