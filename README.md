@@ -14,25 +14,25 @@ Analista Universitario en Sistemas de Información, con carrera de Ingeniería e
  
 **[Transpilador de lenguaje esotérico](https://github.com/gmartineza/trucolang)** · `Python`  
 Transpilador Turing-completo basado en Brainf\*ck, con análisis léxico y generación de código.  
-👥 Proyecto individual · Dirigido a: exploración de fundamentos de lenguajes de programación
+👥 Proyecto académico en pares · Dirigido a: exploración de fundamentos de lenguajes de programación
  
 ---
  
 **[Gestor de correo](https://github.com/gmartineza/emailManager)** · `Java · TDD · CI/CD · UML`  
 Cliente de correo con envío real, bandeja de enviados y búsqueda por filtros.  
-👥 Proyecto académico grupal · Dirigido a: usuarios finales de correo
+👥 Proyecto académico grupal · Dirigido a: exploración de fundamentos de desarrollo de software
  
 ---
  
 **Plataforma de encuestas nutricionales** · `Python · Django · Playwright · Docker`  
 Aplicación web desplegada en la nube para encuestar sobre preparaciones culinarias y visualizar resultados con gráficos y descarga de datos.  
-👥 Proyecto intercarrera · Dirigido a: estudiantes y docentes de Nutrición
+👥 Proyecto intercarrera · Dirigido a: estudiantes de nutrición, comunicación con un cliente real
  
 ---
  
 **[Aplicación PWA para evento cultural](https://github.com/gmartineza/bienal-backend)** · `Next.js · Firebase · Docker`  
-Gestión de obras, creadores y eventos para un evento cultural real, con API documentada en Postman.  
-👥 Proyecto grupal de curso · Dirigido a: asistentes y organizadores del evento
+Gestión de obras, creadores y eventos para un evento cultural.  
+👥 Proyecto grupal de curso · Dirigido a: asistentes y organizadores del evento, exploración de PWAs
  
 ---
  
