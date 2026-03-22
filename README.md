@@ -7,7 +7,9 @@
 ## Sobre mí
  
 Analista Universitario en Sistemas de Información, con carrera de Ingeniería en Sistemas de Información en curso (egreso esperado 2026). Me interesa comprender los sistemas y sus flujos para poder llegar a soluciones robustas. Actualmente me desempeño como desarrollador junior en consultoría de software.
- 
+
+### [Video de presentación](https://youtube.com/shorts/UzwVNne_GZ4?si=JLS1UsZdUvLose0v)
+
 ---
  
 ## 🛠 Proyectos
